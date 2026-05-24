@@ -4,7 +4,7 @@
 # ============================================================
 
 # Telegram bot tokeni (@BotFather orqali olinadi)
-BOT_TOKEN = "TOKEN_BOT"
+BOT_TOKEN = "8814293676:AAGKc-rmg449ZZmyLRn9DY67yNNpreNb7Oo"
 
 # Adminning Telegram user ID raqami
 # Uni bilish uchun @userinfobot ga /start yuboring
