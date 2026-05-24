@@ -8,7 +8,7 @@ BOT_TOKEN = "TOKEN_BOT"
 
 # Adminning Telegram user ID raqami
 # Uni bilish uchun @userinfobot ga /start yuboring
-ADMIN_ID = ADMIN_ID  # O'zingizning ID raqamingizni kiriting
+ADMIN_ID = 2031471973  # O'zingizning ID raqamingizni kiriting
 
 # Ma'lumotlar bazasi fayli joylashuvi
 DB_PATH = "data/bot.db"
